@@ -131,3 +131,7 @@ dmypy.json
 # other
 .idea
 __pycache__
+
+# playground
+main
+example
